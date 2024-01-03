@@ -7,12 +7,12 @@ const AboutSection = () => {
       <div id="about-section" className="container">
         <h2 className="section-title">Overview.</h2>
         <p className="section-description">
-          Computer Science graduate with over two years of experience in
-          software development, specializing in designing and developing user-
-          centric, high-performance applications. Demonstrates a solid
-          commitment to delivering quality solutions, prioritizing user
-          experience, and adhering to rigorous standards. Skilled in developing
-          innovative and efficient approaches to software challenges.
+          Computer Science graduate with 2+ experience in software development,
+          specializing in designing and developing user- centric,
+          high-performance applications. Demonstrates a solid commitment to
+          delivering quality solutions, prioritizing user experience, and
+          adhering to rigorous standards. Skilled in developing innovative and
+          efficient approaches to software challenges.
         </p>
       </div>
     </section>
