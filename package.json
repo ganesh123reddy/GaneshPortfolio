@@ -1,12 +1,12 @@
 {
-  "homepage":"https://ganesh123reddy.github.io/portfolio/",
+  "homepage": "https://ganesh123reddy.github.io/portfolio/",
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm install --legacy-peer-deps && npm run build",
-    "deploy":"gh-pages -d dist",
+    "predeploy": "npm install --legacy-peer-deps && npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
@@ -19,6 +19,7 @@
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
     "bootstrap": "^5.2.3",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.2",
     "react-country-flag": "^3.1.0",
