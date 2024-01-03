@@ -1,12 +1,12 @@
 {
-  "homepage": "https://ganesh123reddy.github.io/portfolio/",
-  "name": "react-app",
+  "homepage": "http://ganesh123reddy.github.io/portfolio/",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm install --legacy-peer-deps && npm run build",
-    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
