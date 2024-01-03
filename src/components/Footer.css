@@ -1,0 +1,47 @@
+.footer {
+    background-color: black; /* Adjust the color as needed */
+    position: fixed; /* Fix the position */
+    bottom: 0; /* Align to the bottom */
+    left: 0; /* Align to the left */
+    width: 100%; /* Ensure it stretches across the whole screen */
+    z-index: 1030; /* Higher than the page content but lower than modal overlays */
+  }
+  
+  .footer-text {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding-right: 70em;
+  }
+  
+  
+  
+  .footer {
+    background-color: black; 
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .footer-link {
+    color: #ffffff;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 16px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px; /* Space between icon and text */
+  padding: 8px 16px; /* Adjust padding to control the size of the buttons */
+  border-color: white;
+  border-radius: 20px; /* This will give you the rounded corners for the buttons */
+  /* background-color: transparent; The color of the button; adjust as needed */
+  
+  transition: all 0.3s ease;
+  }
+  
+
+  
+  .footer-link:hover {
+    color: #a0a0ff; /* Adjust hover color as needed */
+    transition: color 0.3s ease;
+  }
+  
