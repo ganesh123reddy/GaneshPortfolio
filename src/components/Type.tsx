@@ -9,7 +9,6 @@ function Type() {
           "Software Engineer",
           "Data Engineer",
           "Full Stack Developer",
-          "Data Scientist",
           "Data Analyst",
         ],
         autoStart: true,

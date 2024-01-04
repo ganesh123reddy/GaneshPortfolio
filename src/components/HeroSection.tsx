@@ -12,7 +12,7 @@ const HeroSection = () => {
             👋
           </span>
         </h1>
-        <h1 className="hero-name">I'm Giridhara Ganesh Reddy</h1>
+        <h1 className="hero-name">I'm Giridhara Ganesh Talla</h1>
         <p className="hero-summary">
           Tech Alchemist Creating User Delight Through Code!
         </p>
